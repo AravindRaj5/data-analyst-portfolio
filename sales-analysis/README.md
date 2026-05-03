@@ -1,18 +1,32 @@
-# Sales Analysis Project
+# 📊 Sales Analysis Project
 
-## Objective
-Analyze sales data to find trends and insights.
+## 🔹 Objective
+Analyze sales data to identify trends, top-performing products, and revenue insights.
 
-## Tools Used
+## 🔹 Tools Used
 - Excel
-- Python (Pandas)
-- GitHub
+- SQL (optional if used)
+- Power BI
 
-## Steps
-1. Data Cleaning  
-2. Data Exploration  
-3. Analysis  
-4. Insights  
+## 🔹 Dataset
+- File: train.xlsx
+- Contains sales transactions including product, region, revenue, etc.
 
-## Status
-In progress
+## 🔹 Key Insights
+- Top-selling products
+- Monthly sales trends
+- Regional performance
+- Profit analysis
+
+## 🔹 Dashboard
+![Dashboard](dashboard.png)
+
+## 🔹 Project Files
+- train.xlsx → Raw dataset
+- dashboard.png → Visualization output
+
+## 🔹 Conclusion
+This project helps businesses understand sales patterns and improve decision-making.
+
+## 🔹 Author
+Aravind
