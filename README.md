@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Hi, I'm [Your Name]
+Hi, I'm Aravind
 
 I am learning data analysis and building real-world projects using:
 - Python
