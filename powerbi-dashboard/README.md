@@ -28,7 +28,9 @@ This project showcases an interactive Power BI dashboard built to analyze sales 
 - Regional Analysis
 - Product Performance
 - Interactive Filters
+## 📸 Dashboard Preview
 
+![Dashboard](dashboard.png)
 ---
 
 ## 🔍 Key Insights
